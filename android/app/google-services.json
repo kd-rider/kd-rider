@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014622189154",
+    "project_id": "tuktuk-toto",
+    "storage_bucket": "tuktuk-toto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014622189154:android:37c34dcc93ab7220da433b",
+        "android_client_info": {
+          "package_name": "com.kunal.tuktuktoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014622189154-t22o2agviatudiibfqu2enqeskiifsis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnlkkCRyqW-Zn8AjOXfsnLshKoMDLYWBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014622189154-t22o2agviatudiibfqu2enqeskiifsis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
